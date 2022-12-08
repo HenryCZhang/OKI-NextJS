@@ -24,7 +24,7 @@ export default function Checkout(){
 
     return (
     <div>
-        <h1>Checkout</h1>
+        <h1>Checkout Page</h1>
         <button role="link" onClick={handleClick}>Checkout</button>
     </div>
     )
